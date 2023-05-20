@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 class Javabasics{
     public static void main(String[] args) {
         Scanner scc = new Scanner(System.in); //Scnaner define
